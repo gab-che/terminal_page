@@ -1,0 +1,38 @@
+@use './variables' as *;
+
+@mixin flex_col{
+    display: flex;
+    flex-direction: column;
+}
+
+@mixin flex_grow{
+    flex-grow: 1;
+    overflow: auto;
+}
+
+@mixin flex_between{
+    display: flex;
+    justify-content: space-between;
+}
+
+@mixin flex_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin border_out{
+    border-width: 3px;
+    border-style: solid;
+    border-color: $border_color_out;
+}
+
+@mixin border_in{
+    border-width: 3px;
+    border-style: solid;
+    border-color: $border_color_in;
+}
+
+$icon_width: 20px;
+$spacer_xs: .25rem;
+$spacer_md: .7rem;

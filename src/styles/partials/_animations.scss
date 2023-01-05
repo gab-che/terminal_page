@@ -1,0 +1,14 @@
+@keyframes typewriter{
+    to {
+        left: 100%;
+    }
+}
+
+@keyframes blink {
+    to{
+        background: transparent;
+    }
+}
+
+$typewriter_speed: 5s;
+$animation_delay: 1s;

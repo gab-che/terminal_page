@@ -1,2 +1,13 @@
 @use './partials/variables' as *;
+@use "@fortawesome/fontawesome-free/css/all.min.css";
 @import 'bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+body{
+    height: 100vh;
+    background-color: black;
+}
+
+p, ul{
+    margin-bottom: 0;
+}

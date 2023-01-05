@@ -1,0 +1,26 @@
+[
+    {
+        "prompt": "ls",
+        "response": ""
+    },
+    {
+        "prompt": "about",
+        "response": "hi! i'm gabriella, a junior full-stack web-developer based in italy. once i reached the dreaded 30s the time had come for me to be arrest... well, no, that's a story for another time. i've rediscovered my interest for coding and can't wait to learn more."
+    },
+    {
+        "prompt": "github",
+        "response": ""
+    },
+    {
+        "prompt": "fiction",
+        "response": "i've always had a thing for words. i'm a passionate reader, i have worked in the book industry, and alas! i think i can be a writer too. i'm currently writing the next big american novel (</sarcasm>). want to see where it all started? take a look at some short fiction i've written over the past years at: http"
+    },
+    {
+        "prompt": "code",
+        "response": ""
+    },
+    {
+        "prompt": "form",
+        "response": "let's get in touch!"
+    }
+]
